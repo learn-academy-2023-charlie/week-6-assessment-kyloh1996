@@ -60,3 +60,5 @@ class BlogPostsController < ApplicationController
     params.require(:blog_post).permit(:title, :content)
   end
 end
+
+#  added for new branch
