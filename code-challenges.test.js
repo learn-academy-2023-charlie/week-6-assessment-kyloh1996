@@ -132,3 +132,6 @@ const smCb = (arr) => {
 
 // PASS  ./code-challenges.test.js
 // smCb ✓  takes in an array of numbers and returns the sum of all the numbers cubed 
+
+
+// added for new branch
